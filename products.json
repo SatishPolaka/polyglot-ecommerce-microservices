@@ -1,0 +1,236 @@
+{
+    "products": [
+        {
+            "id": "OLJCESPC7Z",
+            "name": "Sunglasses",
+            "description": "Aviator shades for people who say \"let's take this offline\" and then never do. Polarized against harsh light and harsher feedback.",
+            "picture": "/static/img/products/sunglasses.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 19, "nanos": 990000000 },
+            "categories": ["accessories"]
+        },
+        {
+            "id": "66VCHSJNUP",
+            "name": "Tank Top",
+            "description": "A cropped cotton tank with a scooped neckline and the quiet confidence of someone who already stretched.",
+            "picture": "/static/img/products/tank-top.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 18, "nanos": 990000000 },
+            "categories": ["clothing", "tops"]
+        },
+        {
+            "id": "1YMWWN1N4O",
+            "name": "Watch",
+            "description": "Gold-tone stainless steel that tells the time and, if you stare long enough, how long this meeting has been going.",
+            "picture": "/static/img/products/watch.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 109, "nanos": 990000000 },
+            "categories": ["accessories"]
+        },
+        {
+            "id": "L9ECAV7KIM",
+            "name": "Loafers",
+            "description": "Summer loafers that look like you have somewhere better to be, even if that place is the couch.",
+            "picture": "/static/img/products/loafers.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 89, "nanos": 990000000 },
+            "categories": ["footwear"]
+        },
+        {
+            "id": "2ZYFJ3GM2N",
+            "name": "Hairdryer",
+            "description": "Three heat settings, one speed called \"I have seven minutes,\" and a cord long enough to reach your excuses.",
+            "picture": "/static/img/products/hairdryer.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 24, "nanos": 990000000 },
+            "categories": ["hair", "beauty"]
+        },
+        {
+            "id": "0PUK6V6EV0",
+            "name": "Candle Holder",
+            "description": "A small, intricate holder for candles, dramatic lighting, and the one personality trait you are willing to discuss.",
+            "picture": "/static/img/products/candle-holder.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 18, "nanos": 990000000 },
+            "categories": ["decor", "home"]
+        },
+        {
+            "id": "LS4PSXUNUM",
+            "name": "Salt and Pepper Shakers",
+            "description": "A matched pair that seasons dinner and, frankly, most opinions. Dishwasher safe. Drama not included.",
+            "picture": "/static/img/products/salt-and-pepper-shakers.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 18, "nanos": 490000000 },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "9SIQT8TOJO",
+            "name": "Bamboo Glass Jar",
+            "description": "Holds 57 oz of pasta, coffee, or the snacks you told yourself were \"for guests.\"",
+            "picture": "/static/img/products/bamboo-glass-jar.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 5, "nanos": 490000000 },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "6E92ZMYYFZ",
+            "name": "Mustard Mug",
+            "description": "A simple mug with a mustard interior. Looks cheerful. Holds the coffee that is doing the actual work.",
+            "picture": "/static/img/products/mug.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 8, "nanos": 990000000 },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "H00D13MEET",
+            "name": "Emergency Meeting Hoodie",
+            "description": "Soft fleece for calls that could have been an email. The hood is for focus. The pocket is for snacks you will deny later.",
+            "picture": "/static/img/products/hoodie.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 48, "nanos": 0 },
+            "categories": ["clothing", "tops"]
+        },
+        {
+            "id": "PLANTJUDG1",
+            "name": "Desk Plant That Judges You",
+            "description": "A low-maintenance plant with a high-maintenance stare. Water it when you remember your own lunch.",
+            "picture": "/static/img/products/plant.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 16, "nanos": 500000000 },
+            "categories": ["decor", "home"]
+        },
+        {
+            "id": "NC4TH0UGHT",
+            "name": "Noise-Cancelling Headphones",
+            "description": "Cancels the open office, the dishwasher, and at least one opinion from across the table. Battery lasts longer than most resolutions.",
+            "picture": "/static/img/products/headphones.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 79, "nanos": 0 },
+            "categories": ["accessories", "tech"]
+        },
+        {
+            "id": "STICKRCLU1",
+            "name": "Laptop Sticker Pack",
+            "description": "Twelve stickers that imply you have read the documentation. We will not check. Your laptop will look faster. It will not be.",
+            "picture": "/static/img/products/stickers.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 12, "nanos": 0 },
+            "categories": ["accessories", "office"]
+        },
+        {
+            "id": "THERMOSQD1",
+            "name": "Questionable Decisions Thermos",
+            "description": "Keeps coffee hot through the decision you will explain tomorrow. Leakproof lid. Leakier judgment sold separately.",
+            "picture": "/static/img/products/thermos.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 22, "nanos": 500000000 },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "TOTE4DOCS1",
+            "name": "I Read the Docs Tote",
+            "description": "Heavy canvas, roomy enough for a laptop, a paperback, and the lie that you finished the changelog.",
+            "picture": "/static/img/products/tote.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 24, "nanos": 0 },
+            "categories": ["bags", "accessories"]
+        },
+        {
+            "id": "SOCKALLEG1",
+            "name": "Allegedly Matching Socks",
+            "description": "A pair that left the warehouse together. What happens in the laundry is between you and the dryer.",
+            "picture": "/static/img/products/socks.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 14, "nanos": 0 },
+            "categories": ["clothing"]
+        },
+        {
+            "id": "KEYCLACK01",
+            "name": "Mechanical Keyboard",
+            "description": "Clicky keys for people who want the whole room to know they are typing. Includes a volume of confidence and zero volume control.",
+            "picture": "/static/img/products/keyboard.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 96, "nanos": 0 },
+            "categories": ["office", "tech"]
+        },
+        {
+            "id": "LAMPGREG01",
+            "name": "Desk Lamp Named Greg",
+            "description": "Warm light, brass neck, and a name tag because every desk needs one coworker who does not schedule meetings.",
+            "picture": "/static/img/products/lamp.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 34, "nanos": 0 },
+            "categories": ["home", "office"]
+        },
+        {
+            "id": "BOTTLEEXC1",
+            "name": "Excuse-Tracking Bottle",
+            "description": "A 24 oz bottle with time markers: sip, stretch, invent a reason to leave the chat. BPA-free. Excuse-rich.",
+            "picture": "/static/img/products/bottle.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 18, "nanos": 0 },
+            "categories": ["accessories"]
+        },
+        {
+            "id": "BEANIEIN01",
+            "name": "Indoor Weather Beanie",
+            "description": "For apartments that treat 68 degrees like a personality. Ribbed knit. Works with headphones. Works with denial.",
+            "picture": "/static/img/products/beanie.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 19, "nanos": 0 },
+            "categories": ["clothing", "accessories"]
+        },
+        {
+            "id": "NOTEHALF01",
+            "name": "Half-Finished Notebook",
+            "description": "192 pages, dotted grid, and a cover sturdy enough for the side project you will reopen in March.",
+            "picture": "/static/img/products/notebook.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 11, "nanos": 500000000 },
+            "categories": ["office"]
+        },
+        {
+            "id": "SNACKLOCK1",
+            "name": "Decorative Snack Lock",
+            "description": "A charming latch for the drawer everyone knows about. It will not stop you. It will make you feel seen.",
+            "picture": "/static/img/products/lock.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 15, "nanos": 0 },
+            "categories": ["kitchen", "home"]
+        },
+        {
+            "id": "BACKWKND01",
+            "name": "Weekend Backpack",
+            "description": "Fits a change of clothes, a book you will not open, and the charger you will definitely forget.",
+            "picture": "/static/img/products/backpack.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 64, "nanos": 0 },
+            "categories": ["bags"]
+        },
+        {
+            "id": "SLIPPERS01",
+            "name": "Slippers With Ambition",
+            "description": "House slippers that look presentable enough for the porch, the package pickup, and one accidental video call.",
+            "picture": "/static/img/products/slippers.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 32, "nanos": 0 },
+            "categories": ["footwear"]
+        },
+        {
+            "id": "REFILLMUG1",
+            "name": "Second Coffee Mug",
+            "description": "For the refill that becomes the plan. Wide rim, honest handle, and room for foam you will photograph once.",
+            "picture": "/static/img/products/refill-mug.svg",
+            "priceUsd": { "currencyCode": "USD", "units": 13, "nanos": 0 },
+            "categories": ["kitchen"]
+        },
+        {
+            "id": "POUROVERSE1",
+            "name": "Slow Morning Pour-Over Set",
+            "description": "A stoneware dripper and glass carafe for the ritual that convinces you the day started on purpose. Brews one honest cup, no guilt included.",
+            "picture": "/static/img/products/pour-over-set.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 46, "nanos": 0 },
+            "categories": ["kitchen", "home"]
+        },
+        {
+            "id": "MONITORS01",
+            "name": "Studio Monitor Speakers",
+            "description": "Matte-black near-field monitors that make every playlist sound like it was mastered for you. Your neighbours will develop opinions.",
+            "picture": "/static/img/products/studio-monitors.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 249, "nanos": 0 },
+            "categories": ["tech", "office"]
+        },
+        {
+            "id": "LINENTHRW1",
+            "name": "Stonewashed Linen Throw",
+            "description": "A heavy linen throw in oatmeal that turns any sofa into the reason you missed the call. Gets softer every wash. So does your excuse.",
+            "picture": "/static/img/products/linen-throw.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 58, "nanos": 0 },
+            "categories": ["home", "decor"]
+        },
+        {
+            "id": "SNEAKERS01",
+            "name": "Everyday White Sneakers",
+            "description": "Clean low-tops that go with everything and judge nothing. Scuff-resistant leather, because life is mostly pavements and parking lots.",
+            "picture": "/static/img/products/everyday-sneakers.jpg",
+            "priceUsd": { "currencyCode": "USD", "units": 96, "nanos": 0 },
+            "categories": ["footwear"]
+        }
+    ]
+}
