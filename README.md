@@ -51,7 +51,7 @@ Each service has its own dedicated branch in this repository:
 
 Each service branch has a `Jenkinsfile` that:
 1. Builds a Docker image
-2. Pushes it to Docker Hub (`shaikmustafa/` or `shaikmustafa77/`)
+2. Pushes it to Docker Hub (`satishpolaka/` or `satishpolaka/`)
 
 The `adservice` additionally:
 - Builds the JAR using Gradle
