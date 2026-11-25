@@ -6,7 +6,7 @@ A cloud-native, polyglot e-commerce application built with 12 microservices usin
 
 ## Architecture Overview
 
-The application is a fully functional online boutique store. Services communicate over gRPC and are deployed in the `webapps` namespace on EKS cluster `EKS-1` (region: `ap-south-1`).
+The application is a fully functional online boutique store. Services communicate over gRPC and are deployed in the `webapps` namespace on EKS cluster `EKS-1` (region: `us-east-1`).
 
 | Service | Language | Description | Port |
 |---|---|---|---|
